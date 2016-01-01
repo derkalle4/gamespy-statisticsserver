@@ -1,0 +1,646 @@
+[11.02.2015 15:03:30] initializing database connection
+[11.02.2015 15:03:30] successful initialized database connection
+[11.02.2015 15:03:30] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:03:30] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:04:06] initializing database connection
+[11.02.2015 15:04:06] successful initialized database connection
+[11.02.2015 15:04:06] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:04:06] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:04:18] initializing database connection
+[11.02.2015 15:04:18] successful initialized database connection
+[11.02.2015 15:04:18] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:04:18] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:04:41] new connection from 127.0.0.1:52403
+[11.02.2015 15:07:48] initializing database connection
+[11.02.2015 15:07:48] successful initialized database connection
+[11.02.2015 15:07:48] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:07:48] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:07:51] new connection from 127.0.0.1:52404
+[11.02.2015 15:08:54] initializing database connection
+[11.02.2015 15:08:54] successful initialized database connection
+[11.02.2015 15:08:54] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:08:54] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:08:56] initializing database connection
+[11.02.2015 15:08:56] successful initialized database connection
+[11.02.2015 15:08:56] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:08:56] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:09:54] initializing database connection
+[11.02.2015 15:09:54] successful initialized database connection
+[11.02.2015 15:09:54] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:09:54] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:09:56] new connection from 127.0.0.1:52405
+[11.02.2015 15:09:56] server: \lc\1\challenge\LCYLBAMGIK\id\1\final\
+[11.02.2015 15:09:56] initializing new client ()
+[11.02.2015 15:10:24] ======= 1 of 1000 sockets active =======
+[11.02.2015 15:10:26] initializing database connection
+[11.02.2015 15:10:26] successful initialized database connection
+[11.02.2015 15:10:26] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:10:26] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:10:26] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:11:50] initializing database connection
+[11.02.2015 15:11:50] successful initialized database connection
+[11.02.2015 15:11:50] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:11:50] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:11:52] new connection from 127.0.0.1:52406
+[11.02.2015 15:11:52] server: \lc\1\challenge\OGDBBUFWTL\id\1\final\
+[11.02.2015 15:11:52] initializing new client ()
+[11.02.2015 15:12:49] initializing database connection
+[11.02.2015 15:12:49] successful initialized database connection
+[11.02.2015 15:12:49] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:12:49] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:12:49] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:12:51] initializing database connection
+[11.02.2015 15:12:51] successful initialized database connection
+[11.02.2015 15:12:51] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:12:51] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:12:51] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:13:12] initializing database connection
+[11.02.2015 15:13:12] successful initialized database connection
+[11.02.2015 15:13:12] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:13:12] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:13:15] new connection from 127.0.0.1:52407
+[11.02.2015 15:13:15] server: \lc\1\challenge\RNGLPDEQFY\id\1\final\
+[11.02.2015 15:13:15] initializing new client (127.0.0.1:52407)
+[11.02.2015 15:13:18] client: 3'\final\
+[11.02.2015 15:13:18] client (127.0.0.1:52407) disconnected... #default
+[11.02.2015 15:14:26] initializing database connection
+[11.02.2015 15:14:26] successful initialized database connection
+[11.02.2015 15:14:26] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:14:26] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:14:28] initializing database connection
+[11.02.2015 15:14:28] successful initialized database connection
+[11.02.2015 15:14:28] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:14:28] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:14:30] new connection from 127.0.0.1:52408
+[11.02.2015 15:14:30] server: \lc\1\challenge\JERGTQJOMS\id\1\final\
+[11.02.2015 15:14:30] initializing new client (127.0.0.1:52408)
+[11.02.2015 15:14:33] client: 3\final\
+[11.02.2015 15:14:33] client (127.0.0.1:52408) disconnected... #default
+[11.02.2015 15:14:33] class timeout for 127.0.0.1:52408
+[11.02.2015 15:14:33] socket closed #tcp_socket
+[11.02.2015 15:14:58] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:15:28] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:15:29] initializing database connection
+[11.02.2015 15:15:29] successful initialized database connection
+[11.02.2015 15:15:29] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:15:29] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:15:29] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:15:31] initializing database connection
+[11.02.2015 15:15:31] successful initialized database connection
+[11.02.2015 15:15:31] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:15:31] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:15:31] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:15:55] initializing database connection
+[11.02.2015 15:15:55] successful initialized database connection
+[11.02.2015 15:15:55] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:15:55] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:15:58] initializing database connection
+[11.02.2015 15:15:58] successful initialized database connection
+[11.02.2015 15:15:58] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:15:58] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:16:00] new connection from 127.0.0.1:52409
+[11.02.2015 15:16:00] server: \lc\1\challenge\MCGAEAWYNK\id\1\final\
+[11.02.2015 15:16:00] initializing new client (127.0.0.1:52409)
+[11.02.2015 15:16:02] client: 3\final\
+[11.02.2015 15:16:02] client (127.0.0.1:52409) disconnected... #default
+[11.02.2015 15:16:02] class timeout for 127.0.0.1:52409
+[11.02.2015 15:16:02] socket closed #tcp_socket
+[11.02.2015 15:16:03] new connection from 127.0.0.1:52410
+[11.02.2015 15:16:03] server: \lc\1\challenge\ZPFMIKLJAF\id\1\final\
+[11.02.2015 15:16:03] initializing new client (127.0.0.1:52410)
+[11.02.2015 15:16:03] client: %\final\
+[11.02.2015 15:16:03] client (127.0.0.1:52410) disconnected... #default
+[11.02.2015 15:16:03] class timeout for 127.0.0.1:52410
+[11.02.2015 15:16:03] socket closed #tcp_socket
+[11.02.2015 15:16:28] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:16:58] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:17:01] new connection from 127.0.0.1:52411
+[11.02.2015 15:17:01] server: \lc\1\challenge\GTNNURORQB\id\1\final\
+[11.02.2015 15:17:01] initializing new client (127.0.0.1:52411)
+[11.02.2015 15:17:11] new connection from 127.0.0.1:52413
+[11.02.2015 15:17:11] server: \lc\1\challenge\FAQKNYVZIV\id\1\final\
+[11.02.2015 15:17:11] initializing new client (127.0.0.1:52413)
+[11.02.2015 15:17:18] new connection from 127.0.0.1:52414
+[11.02.2015 15:17:18] server: \lc\1\challenge\XSFLGADVRT\id\1\final\
+[11.02.2015 15:17:18] initializing new client (127.0.0.1:52414)
+[11.02.2015 15:17:22] new connection from 127.0.0.1:52415
+[11.02.2015 15:17:22] server: \lc\1\challenge\AZVQKJPFIX\id\1\final\
+[11.02.2015 15:17:22] initializing new client (127.0.0.1:52415)
+[11.02.2015 15:17:27] new connection from 127.0.0.1:52416
+[11.02.2015 15:17:27] server: \lc\1\challenge\OMRTXYUATM\id\1\final\
+[11.02.2015 15:17:27] initializing new client (127.0.0.1:52416)
+[11.02.2015 15:17:28] ======= 5 of 1000 sockets active =======
+[11.02.2015 15:17:32] new connection from 127.0.0.1:52417
+[11.02.2015 15:17:32] server: \lc\1\challenge\BTKXKUHZAP\id\1\final\
+[11.02.2015 15:17:32] initializing new client (127.0.0.1:52417)
+[11.02.2015 15:17:37] new connection from 127.0.0.1:52418
+[11.02.2015 15:17:37] server: \lc\1\challenge\CNBTHZSBZL\id\1\final\
+[11.02.2015 15:17:37] initializing new client (127.0.0.1:52418)
+[11.02.2015 15:17:42] new connection from 127.0.0.1:52419
+[11.02.2015 15:17:42] server: \lc\1\challenge\NWHXTRRAQS\id\1\final\
+[11.02.2015 15:17:42] initializing new client (127.0.0.1:52419)
+[11.02.2015 15:17:47] new connection from 127.0.0.1:52420
+[11.02.2015 15:17:47] server: \lc\1\challenge\JVALPHKHIK\id\1\final\
+[11.02.2015 15:17:47] initializing new client (127.0.0.1:52420)
+[11.02.2015 15:17:51] new connection from 127.0.0.1:52421
+[11.02.2015 15:17:51] server: \lc\1\challenge\SJNZGHQYIH\id\1\final\
+[11.02.2015 15:17:51] initializing new client (127.0.0.1:52421)
+[11.02.2015 15:17:55] new connection from 127.0.0.1:52422
+[11.02.2015 15:17:55] server: \lc\1\challenge\IUNIFDPQLY\id\1\final\
+[11.02.2015 15:17:55] initializing new client (127.0.0.1:52422)
+[11.02.2015 15:17:58] ======= 11 of 1000 sockets active =======
+[11.02.2015 15:17:58] new connection from 127.0.0.1:52423
+[11.02.2015 15:17:58] server: \lc\1\challenge\MXKZXRGOPO\id\1\final\
+[11.02.2015 15:17:58] initializing new client (127.0.0.1:52423)
+[11.02.2015 15:18:05] new connection from 127.0.0.1:52424
+[11.02.2015 15:18:05] server: \lc\1\challenge\GZJUHPXWGJ\id\1\final\
+[11.02.2015 15:18:05] initializing new client (127.0.0.1:52424)
+[11.02.2015 15:18:09] new connection from 127.0.0.1:52425
+[11.02.2015 15:18:09] server: \lc\1\challenge\PCKABIRIWG\id\1\final\
+[11.02.2015 15:18:09] initializing new client (127.0.0.1:52425)
+[11.02.2015 15:18:13] new connection from 127.0.0.1:52426
+[11.02.2015 15:18:13] server: \lc\1\challenge\CRHLLPBIMH\id\1\final\
+[11.02.2015 15:18:13] initializing new client (127.0.0.1:52426)
+[11.02.2015 15:18:17] new connection from 127.0.0.1:52427
+[11.02.2015 15:18:17] server: \lc\1\challenge\BWZMWBUOKR\id\1\final\
+[11.02.2015 15:18:17] initializing new client (127.0.0.1:52427)
+[11.02.2015 15:18:20] new connection from 127.0.0.1:52428
+[11.02.2015 15:18:20] server: \lc\1\challenge\RJKZVVOWEB\id\1\final\
+[11.02.2015 15:18:20] initializing new client (127.0.0.1:52428)
+[11.02.2015 15:18:23] new connection from 127.0.0.1:52429
+[11.02.2015 15:18:23] server: \lc\1\challenge\FUZFHWHBKR\id\1\final\
+[11.02.2015 15:18:23] initializing new client (127.0.0.1:52429)
+[11.02.2015 15:18:27] new connection from 127.0.0.1:52430
+[11.02.2015 15:18:27] server: \lc\1\challenge\STWCTRYIOD\id\1\final\
+[11.02.2015 15:18:27] initializing new client (127.0.0.1:52430)
+[11.02.2015 15:18:28] ======= 19 of 1000 sockets active =======
+[11.02.2015 15:18:30] new connection from 127.0.0.1:52431
+[11.02.2015 15:18:30] server: \lc\1\challenge\EXFDCMAKOK\id\1\final\
+[11.02.2015 15:18:30] initializing new client (127.0.0.1:52431)
+[11.02.2015 15:18:35] new connection from 127.0.0.1:52432
+[11.02.2015 15:21:07] initializing database connection
+[11.02.2015 15:21:07] successful initialized database connection
+[11.02.2015 15:21:07] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:21:07] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:21:11] new connection from 127.0.0.1:52433
+[11.02.2015 15:21:11] server: \lc\1\challenge\EKTOJRQKVQ\id\1\final\
+[11.02.2015 15:21:11] initializing new client (127.0.0.1:52433)
+[11.02.2015 15:21:17] new connection from 127.0.0.1:52434
+[11.02.2015 15:23:19] initializing database connection
+[11.02.2015 15:23:19] successful initialized database connection
+[11.02.2015 15:23:27] initializing database connection
+[11.02.2015 15:23:27] successful initialized database connection
+[11.02.2015 15:23:27] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:23:27] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:23:49] initializing database connection
+[11.02.2015 15:23:49] successful initialized database connection
+[11.02.2015 15:23:49] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:23:49] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:23:51] new connection from 127.0.0.1:52435
+[11.02.2015 15:23:51] server: \lc\1\challenge\EKPDDSJMCH\id\1\final\
+[11.02.2015 15:23:51] initializing new client (127.0.0.1:52435)
+[11.02.2015 15:23:52] new connection from 127.0.0.1:52436
+[11.02.2015 15:24:17] initializing database connection
+[11.02.2015 15:24:17] successful initialized database connection
+[11.02.2015 15:24:17] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:24:22] initializing database connection
+[11.02.2015 15:24:22] successful initialized database connection
+[11.02.2015 15:24:22] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:24:27] initializing database connection
+[11.02.2015 15:24:27] successful initialized database connection
+[11.02.2015 15:24:27] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:24:34] initializing database connection
+[11.02.2015 15:24:34] successful initialized database connection
+[11.02.2015 15:24:34] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:24:39] initializing database connection
+[11.02.2015 15:24:39] successful initialized database connection
+[11.02.2015 15:24:39] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:24:40] initializing database connection
+[11.02.2015 15:24:40] successful initialized database connection
+[11.02.2015 15:24:40] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:24:41] initializing database connection
+[11.02.2015 15:24:41] successful initialized database connection
+[11.02.2015 15:24:41] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:24:42] initializing database connection
+[11.02.2015 15:24:42] successful initialized database connection
+[11.02.2015 15:24:42] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:24:43] initializing database connection
+[11.02.2015 15:24:43] successful initialized database connection
+[11.02.2015 15:24:43] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:24:46] initializing database connection
+[11.02.2015 15:24:46] successful initialized database connection
+[11.02.2015 15:24:46] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:24:53] initializing database connection
+[11.02.2015 15:24:53] successful initialized database connection
+[11.02.2015 15:24:53] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:24:53] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:24:56] new connection from 127.0.0.1:52439
+[11.02.2015 15:24:56] server: \lc\1\challenge\YFVDZREQSB\id\1\final\
+[11.02.2015 15:24:56] initializing new client (127.0.0.1:52439)
+[11.02.2015 15:24:58] new connection from 127.0.0.1:52440
+[11.02.2015 15:25:19] initializing database connection
+[11.02.2015 15:25:19] successful initialized database connection
+[11.02.2015 15:25:19] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:25:51] initializing database connection
+[11.02.2015 15:25:51] successful initialized database connection
+[11.02.2015 15:25:51] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:25:54] initializing database connection
+[11.02.2015 15:25:54] successful initialized database connection
+[11.02.2015 15:25:54] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:25:57] initializing database connection
+[11.02.2015 15:25:57] successful initialized database connection
+[11.02.2015 15:25:57] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:26:04] initializing database connection
+[11.02.2015 15:26:04] successful initialized database connection
+[11.02.2015 15:26:04] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:26:04] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:26:06] new connection from 127.0.0.1:52441
+[11.02.2015 15:26:06] server: \lc\1\challenge\AUDIFXLKSN\id\1\final\
+[11.02.2015 15:26:06] initializing new client (127.0.0.1:52441)
+[11.02.2015 15:26:07] new connection from 127.0.0.1:52442
+[11.02.2015 15:26:07] class timeout for 127.0.0.1:52441
+[11.02.2015 15:26:07] socket closed #tcp_socket
+[11.02.2015 15:26:07] closed connection from : #max_connperip_reached
+[11.02.2015 15:26:34] ======= 1 of 1000 sockets active =======
+[11.02.2015 15:27:04] ======= 1 of 1000 sockets active =======
+[11.02.2015 15:27:34] ======= 1 of 1000 sockets active =======
+[11.02.2015 15:28:01] initializing database connection
+[11.02.2015 15:28:01] successful initialized database connection
+[11.02.2015 15:28:01] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:28:20] initializing database connection
+[11.02.2015 15:28:20] successful initialized database connection
+[11.02.2015 15:28:20] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:28:22] initializing database connection
+[11.02.2015 15:28:22] successful initialized database connection
+[11.02.2015 15:28:22] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:28:33] initializing database connection
+[11.02.2015 15:28:33] successful initialized database connection
+[11.02.2015 15:28:33] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:28:41] initializing database connection
+[11.02.2015 15:28:41] successful initialized database connection
+[11.02.2015 15:28:41] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:28:42] initializing database connection
+[11.02.2015 15:28:42] successful initialized database connection
+[11.02.2015 15:28:42] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:28:44] initializing database connection
+[11.02.2015 15:28:44] successful initialized database connection
+[11.02.2015 15:28:44] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:28:49] initializing database connection
+[11.02.2015 15:28:49] successful initialized database connection
+[11.02.2015 15:28:49] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:28:51] initializing database connection
+[11.02.2015 15:28:51] successful initialized database connection
+[11.02.2015 15:28:51] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:28:56] initializing database connection
+[11.02.2015 15:28:56] successful initialized database connection
+[11.02.2015 15:28:56] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:28:57] initializing database connection
+[11.02.2015 15:28:57] successful initialized database connection
+[11.02.2015 15:28:57] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:29:06] initializing database connection
+[11.02.2015 15:29:06] successful initialized database connection
+[11.02.2015 15:29:06] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:29:06] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:29:08] new connection from 127.0.0.1:52443
+[11.02.2015 15:29:08] server: \lc\1\challenge\YAFQMVUDML\id\1\final\
+[11.02.2015 15:29:08] initializing new client (127.0.0.1:52443)
+[11.02.2015 15:29:09] new connection from 127.0.0.1:52444
+[11.02.2015 15:30:28] initializing database connection
+[11.02.2015 15:30:28] successful initialized database connection
+[11.02.2015 15:30:28] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:30:28] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:30:29] new connection from 127.0.0.1:52445
+[11.02.2015 15:30:29] server: \lc\1\challenge\AMLFJZNAQV\id\1\final\
+[11.02.2015 15:30:29] initializing new client (127.0.0.1:52445)
+[11.02.2015 15:30:29] new connection from 127.0.0.1:52446
+[11.02.2015 15:32:09] initializing database connection
+[11.02.2015 15:32:09] successful initialized database connection
+[11.02.2015 15:32:09] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:32:09] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:32:10] new connection from 127.0.0.1:52447
+[11.02.2015 15:32:10] server: \lc\1\challenge\GMFPMIZUWG\id\1\final\
+[11.02.2015 15:32:10] initializing new client (127.0.0.1:52447)
+[11.02.2015 15:32:11] new connection from 127.0.0.1:52448
+[11.02.2015 15:32:11] socket closed #tcp_socket
+[11.02.2015 15:32:11] closed connection from : #max_connperip_reached
+[11.02.2015 15:32:52] initializing database connection
+[11.02.2015 15:32:52] successful initialized database connection
+[11.02.2015 15:32:52] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:33:27] initializing database connection
+[11.02.2015 15:33:27] successful initialized database connection
+[11.02.2015 15:33:27] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:33:27] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:33:29] new connection from 127.0.0.1:52449
+[11.02.2015 15:33:29] server: \lc\1\challenge\HLJTJENCCN\id\1\final\
+[11.02.2015 15:33:29] initializing new client (127.0.0.1:52449)
+[11.02.2015 15:33:30] new connection from 127.0.0.1:52450
+[11.02.2015 15:33:30] closed connection from 127.0.0.1:52450 #max_connperip_reached
+[11.02.2015 15:33:30] socket closed #tcp_socket
+[11.02.2015 15:33:33] new connection from 127.0.0.1:52451
+[11.02.2015 15:33:33] closed connection from 127.0.0.1:52451 #max_connperip_reached
+[11.02.2015 15:33:33] socket closed #tcp_socket
+[11.02.2015 15:33:54] initializing database connection
+[11.02.2015 15:33:54] successful initialized database connection
+[11.02.2015 15:33:54] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:34:12] initializing database connection
+[11.02.2015 15:34:12] successful initialized database connection
+[11.02.2015 15:34:12] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:34:13] initializing database connection
+[11.02.2015 15:34:13] successful initialized database connection
+[11.02.2015 15:34:13] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:34:19] initializing database connection
+[11.02.2015 15:34:19] successful initialized database connection
+[11.02.2015 15:34:19] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:34:20] initializing database connection
+[11.02.2015 15:34:20] successful initialized database connection
+[11.02.2015 15:34:20] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:34:23] initializing database connection
+[11.02.2015 15:34:23] successful initialized database connection
+[11.02.2015 15:34:23] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:34:25] initializing database connection
+[11.02.2015 15:34:25] successful initialized database connection
+[11.02.2015 15:34:25] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:34:35] initializing database connection
+[11.02.2015 15:34:35] successful initialized database connection
+[11.02.2015 15:34:35] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:34:37] initializing database connection
+[11.02.2015 15:34:37] successful initialized database connection
+[11.02.2015 15:34:37] Could not bind socket 0.0.0.0:29920
+[11.02.2015 15:34:43] initializing database connection
+[11.02.2015 15:34:43] successful initialized database connection
+[11.02.2015 15:34:43] socket started on 0.0.0.0:29920 with 1000 clients max
+[11.02.2015 15:34:43] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:34:44] new connection from 127.0.0.1:52452
+[11.02.2015 15:34:44] server: \lc\1\challenge\CQUMGRIQNZ\id\1\final\
+[11.02.2015 15:34:44] initializing new client (127.0.0.1:52452)
+[11.02.2015 15:34:46] new connection from 127.0.0.1:52453
+[11.02.2015 15:34:46] closed connection from 127.0.0.1:52453 #max_connperip_reached
+[11.02.2015 15:34:46] socket closed #tcp_socket
+[11.02.2015 15:34:48] new connection from 127.0.0.1:52454
+[11.02.2015 15:34:48] closed connection from 127.0.0.1:52454 #max_connperip_reached
+[11.02.2015 15:34:48] socket closed #tcp_socket
+[11.02.2015 15:34:49] new connection from 127.0.0.1:52455
+[11.02.2015 15:34:49] closed connection from 127.0.0.1:52455 #max_connperip_reached
+[11.02.2015 15:34:49] socket closed #tcp_socket
+[11.02.2015 15:34:52] client: %\final\
+[11.02.2015 15:34:52] client (127.0.0.1:52452) disconnected... #default
+[11.02.2015 15:34:52] class timeout for 127.0.0.1:52452
+[11.02.2015 15:34:52] socket closed #tcp_socket
+[11.02.2015 15:35:01] new connection from 127.0.0.1:52456
+[11.02.2015 15:35:01] server: \lc\1\challenge\SKKJUYALUO\id\1\final\
+[11.02.2015 15:35:01] initializing new client (127.0.0.1:52456)
+[11.02.2015 15:35:04] new connection from 127.0.0.1:52457
+[11.02.2015 15:35:04] closed connection from 127.0.0.1:52457 #max_connperip_reached
+[11.02.2015 15:35:04] socket closed #tcp_socket
+[11.02.2015 15:35:06] new connection from 127.0.0.1:52458
+[11.02.2015 15:35:06] closed connection from 127.0.0.1:52458 #max_connperip_reached
+[11.02.2015 15:35:06] socket closed #tcp_socket
+[11.02.2015 15:35:07] client: ¸•’˜U\final\
+[11.02.2015 15:35:07] client (127.0.0.1:52456) disconnected... #default
+[11.02.2015 15:35:07] class timeout for 127.0.0.1:52456
+[11.02.2015 15:35:07] socket closed #tcp_socket
+[11.02.2015 15:35:10] new connection from 127.0.0.1:52459
+[11.02.2015 15:35:10] server: \lc\1\challenge\XBFSNLJVBX\id\1\final\
+[11.02.2015 15:35:10] initializing new client (127.0.0.1:52459)
+[11.02.2015 15:35:12] client: ¸•’˜U\final\
+[11.02.2015 15:35:12] client (127.0.0.1:52459) disconnected... #default
+[11.02.2015 15:35:12] class timeout for 127.0.0.1:52459
+[11.02.2015 15:35:12] socket closed #tcp_socket
+[11.02.2015 15:35:13] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:35:14] new connection from 127.0.0.1:52460
+[11.02.2015 15:35:14] server: \lc\1\challenge\HQVRZQPACK\id\1\final\
+[11.02.2015 15:35:14] initializing new client (127.0.0.1:52460)
+[11.02.2015 15:35:15] new connection from 127.0.0.1:52461
+[11.02.2015 15:35:15] closed connection from 127.0.0.1:52461 #max_connperip_reached
+[11.02.2015 15:35:15] socket closed #tcp_socket
+[11.02.2015 15:35:21] new connection from 127.0.0.1:52462
+[11.02.2015 15:35:21] closed connection from 127.0.0.1:52462 #max_connperip_reached
+[11.02.2015 15:35:21] socket closed #tcp_socket
+[11.02.2015 15:35:43] ======= 1 of 1000 sockets active =======
+[11.02.2015 15:36:12] new connection from 127.0.0.1:52463
+[11.02.2015 15:36:12] closed connection from 127.0.0.1:52463 #max_connperip_reached
+[11.02.2015 15:36:12] socket closed #tcp_socket
+[11.02.2015 15:36:13] ======= 1 of 1000 sockets active =======
+[11.02.2015 15:36:14] new connection from 127.0.0.1:52464
+[11.02.2015 15:36:14] closed connection from 127.0.0.1:52464 #max_connperip_reached
+[11.02.2015 15:36:14] socket closed #tcp_socket
+[11.02.2015 15:36:16] client: ¸•’˜U\final\
+[11.02.2015 15:36:16] client (127.0.0.1:52460) disconnected... #default
+[11.02.2015 15:36:16] class timeout for 127.0.0.1:52460
+[11.02.2015 15:36:16] socket closed #tcp_socket
+[11.02.2015 15:36:43] ======= 0 of 1000 sockets active =======
+[11.02.2015 15:36:59] new connection from 127.0.0.1:52465
+[11.02.2015 15:36:59] server: \lc\1\challenge\VRPAJDMTZO\id\1\final\
+[11.02.2015 15:36:59] initializing new client (127.0.0.1:52465)
+[11.02.2015 15:36:59] new connection from 127.0.0.1:52466
+[11.02.2015 15:36:59] closed connection from 127.0.0.1:52466 #max_connperip_reached
+[11.02.2015 15:36:59] socket closed #tcp_socket
+[11.02.2015 15:37:02] client: ¸•’˜U\final\
+[11.02.2015 15:37:02] client (127.0.0.1:52465) disconnected... #default
+[11.02.2015 15:37:02] class timeout for 127.0.0.1:52465
+[11.02.2015 15:37:02] socket closed #tcp_socket
+[14.02.2015 08:55:57] initializing database connection
+[14.02.2015 08:55:57] successful initialized database connection
+[14.02.2015 08:55:57] socket started on 0.0.0.0:29920 with 1000 clients max
+[14.02.2015 08:55:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 08:56:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 08:56:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 08:57:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 08:57:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 08:58:08] new connection from 10.0.0.35:49786
+[14.02.2015 08:58:08] server: \lc\1\challenge\UXUKLJOQYE\id\1\final\
+[14.02.2015 08:58:08] initializing new client (10.0.0.35:49786)
+[14.02.2015 08:58:09] client: 3\final\
+[14.02.2015 08:58:09] client (10.0.0.35:49786) disconnected... #default
+[14.02.2015 08:58:09] class timeout for 10.0.0.35:49786
+[14.02.2015 08:58:09] socket closed #tcp_socket
+[14.02.2015 08:58:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 08:58:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 08:59:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 08:59:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:00:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:00:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:01:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:01:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:02:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:02:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:03:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:03:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:04:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:04:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:05:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:05:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:06:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:06:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:07:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:07:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:08:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:08:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:09:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:09:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:10:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:10:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:11:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:11:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:12:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:12:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:13:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:13:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:14:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:14:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:15:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:15:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:16:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:16:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:17:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:17:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:18:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:18:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:19:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:19:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:20:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:20:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:21:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:21:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:22:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:22:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:23:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:23:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:24:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:24:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:25:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:25:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:26:11] new connection from 10.0.0.35:50487
+[14.02.2015 09:26:11] server: \lc\1\challenge\HEKOUPXEYF\id\1\final\
+[14.02.2015 09:26:11] initializing new client (10.0.0.35:50487)
+[14.02.2015 09:26:11] client: \auth\\gamename\swbfront2pc\response\6030cb1f56ed83ec4979d48c8c6d6524\port\0\id\1\final\
+[14.02.2015 09:26:11] \lc\2\sesskey\66214\proof\0\id\1\final\
+[14.02.2015 09:26:27] ======= 1 of 1000 sockets active =======
+[14.02.2015 09:26:57] ======= 1 of 1000 sockets active =======
+[14.02.2015 09:27:27] ======= 1 of 1000 sockets active =======
+[14.02.2015 09:27:27] socket timeout (10.0.0.35:50487)
+[14.02.2015 09:27:27] class timeout for 10.0.0.35:50487
+[14.02.2015 09:27:27] socket closed #tcp_socket
+[14.02.2015 09:27:57] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:28:27] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:28:35] initializing database connection
+[14.02.2015 09:28:35] successful initialized database connection
+[14.02.2015 09:28:35] socket started on 0.0.0.0:29920 with 1000 clients max
+[14.02.2015 09:28:35] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:28:55] new connection from 10.0.0.35:50576
+[14.02.2015 09:28:55] server: \lc\1\challenge\QSRPDXBFQB\id\1\final\
+[14.02.2015 09:28:55] initializing new client (10.0.0.35:50576)
+[14.02.2015 09:28:55] client: \auth\\gamename\swbfront2pc\response\92150732fcdabe38821f66cd3f4c3a9e\port\0\id\1\final\
+[14.02.2015 09:28:55] \lc\2\sesskey\42672\proof\0\id\1\final\
+[14.02.2015 09:28:55] client: \newgame\\sesskey\2934456\\challenge\954185566\final\
+[14.02.2015 09:28:55] client (10.0.0.35:50576) #newgame
+[14.02.2015 09:28:55] client: \newgame\\connid\42672\sesskey\3098304\final\
+[14.02.2015 09:28:55] client (10.0.0.35:50576) #newgame
+[14.02.2015 09:29:05] ======= 1 of 1000 sockets active =======
+[14.02.2015 09:29:35] ======= 1 of 1000 sockets active =======
+[14.02.2015 09:30:00] new connection from 10.0.0.35:50614
+[14.02.2015 09:30:00] closed connection from 10.0.0.35:50614 #max_connperip_reached
+[14.02.2015 09:30:00] socket closed #tcp_socket
+[14.02.2015 09:30:05] ======= 1 of 1000 sockets active =======
+[14.02.2015 09:30:21] initializing database connection
+[14.02.2015 09:30:21] successful initialized database connection
+[14.02.2015 09:30:21] Could not bind socket 0.0.0.0:29920
+[14.02.2015 09:30:38] initializing database connection
+[14.02.2015 09:30:38] successful initialized database connection
+[14.02.2015 09:30:38] Could not bind socket 0.0.0.0:29920
+[14.02.2015 09:30:40] initializing database connection
+[14.02.2015 09:30:40] successful initialized database connection
+[14.02.2015 09:30:40] Could not bind socket 0.0.0.0:29920
+[14.02.2015 09:30:41] initializing database connection
+[14.02.2015 09:30:41] successful initialized database connection
+[14.02.2015 09:30:41] Could not bind socket 0.0.0.0:29920
+[14.02.2015 09:30:42] initializing database connection
+[14.02.2015 09:30:42] successful initialized database connection
+[14.02.2015 09:30:42] Could not bind socket 0.0.0.0:29920
+[14.02.2015 09:30:47] initializing database connection
+[14.02.2015 09:30:47] successful initialized database connection
+[14.02.2015 09:30:47] Could not bind socket 0.0.0.0:29920
+[14.02.2015 09:30:49] initializing database connection
+[14.02.2015 09:30:49] successful initialized database connection
+[14.02.2015 09:30:49] Could not bind socket 0.0.0.0:29920
+[14.02.2015 09:30:50] initializing database connection
+[14.02.2015 09:30:50] successful initialized database connection
+[14.02.2015 09:30:50] Could not bind socket 0.0.0.0:29920
+[14.02.2015 09:30:52] initializing database connection
+[14.02.2015 09:30:52] successful initialized database connection
+[14.02.2015 09:30:52] Could not bind socket 0.0.0.0:29920
+[14.02.2015 09:30:54] initializing database connection
+[14.02.2015 09:30:54] successful initialized database connection
+[14.02.2015 09:30:54] Could not bind socket 0.0.0.0:29920
+[14.02.2015 09:30:55] initializing database connection
+[14.02.2015 09:30:55] successful initialized database connection
+[14.02.2015 09:30:55] Could not bind socket 0.0.0.0:29920
+[14.02.2015 09:30:56] initializing database connection
+[14.02.2015 09:30:56] successful initialized database connection
+[14.02.2015 09:30:56] Could not bind socket 0.0.0.0:29920
+[14.02.2015 09:30:58] initializing database connection
+[14.02.2015 09:30:58] successful initialized database connection
+[14.02.2015 09:30:58] Could not bind socket 0.0.0.0:29920
+[14.02.2015 09:31:01] initializing database connection
+[14.02.2015 09:31:01] successful initialized database connection
+[14.02.2015 09:31:01] socket started on 0.0.0.0:29920 with 1000 clients max
+[14.02.2015 09:31:01] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:31:28] new connection from 10.0.0.35:50666
+[14.02.2015 09:31:28] server: \lc\1\challenge\ZORFYSTBUI\id\1\final\
+[14.02.2015 09:31:28] initializing new client (10.0.0.35:50666)
+[14.02.2015 09:31:28] client: \auth\\gamename\swbfront2pc\response\56c342d79889fe184b12c79fcad33b52\port\0\id\1\final\
+[14.02.2015 09:31:28] \lc\2\sesskey\06576\proof\0\id\1\final\
+[14.02.2015 09:31:28] client: \newgame\\connid\6576\sesskey\3251544\final\
+[14.02.2015 09:31:28] client (10.0.0.35:50666) #newgame
+[14.02.2015 09:31:31] ======= 1 of 1000 sockets active =======
+[14.02.2015 09:32:01] ======= 1 of 1000 sockets active =======
+[14.02.2015 09:32:31] ======= 1 of 1000 sockets active =======
+[14.02.2015 09:33:01] ======= 1 of 1000 sockets active =======
+[14.02.2015 09:33:31] ======= 1 of 1000 sockets active =======
+[14.02.2015 09:34:01] ======= 1 of 1000 sockets active =======
+[14.02.2015 09:34:31] ======= 1 of 1000 sockets active =======
+[14.02.2015 09:35:01] ======= 1 of 1000 sockets active =======
+[14.02.2015 09:35:31] ======= 1 of 1000 sockets active =======
+[14.02.2015 09:36:01] ======= 1 of 1000 sockets active =======
+[14.02.2015 09:36:31] ======= 1 of 1000 sockets active =======
+[14.02.2015 09:36:59] client: \updgame\\sesskey\3251544\done\1\gamedata\finishes_01auth_053e60dfb0a32a24db65e47eda0623101winningTeamRepublikgameComplete1player_0[GameMasterFounder]KallewinningCnt66deaths_00losingCnt0playerpoints_013endfaction_0RepublikgametypeIAtimePlayed_0256kills_015ctime_029losingTeamKUSGameMode0starts_01heropoints_028livingStreak_0129pid_02274rating_041mapnamecor1c_con\final\
+[14.02.2015 09:36:59] client (10.0.0.35:50666) #updgame
+[14.02.2015 09:36:59] Array
+(
+    [finishes] => 1
+    [auth] => 53e60dfb0a32a24db65e47eda0623101
+    [player] => [GameMasterFounder]Kalle
+    [deaths] => 0
+    [playerpoints] => 13
+    [endfaction] => Republik
+    [timePlayed] => 256
+    [kills] => 15
+    [ctime] => 29
+    [starts] => 1
+    [heropoints] => 28
+    [livingStreak] => 129
+    [pid] => 2274
+    [rating] => 41
+    [timestamp] => 1423903019
+)
+
+[14.02.2015 09:36:59] gameserver (10.0.0.35:50666) statistic updated
+[14.02.2015 09:36:59] class timeout for 10.0.0.35:50666
+[14.02.2015 09:36:59] socket closed #tcp_socket
+[14.02.2015 09:37:01] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:37:01] new connection from 10.0.0.35:50837
+[14.02.2015 09:37:01] server: \lc\1\challenge\XXERHQBCOI\id\1\final\
+[14.02.2015 09:37:01] initializing new client (10.0.0.35:50837)
+[14.02.2015 09:37:01] client: \auth\\gamename\swbfront2pc\response\b7a674483ad4418aea85663cf195c996\port\0\id\1\final\
+[14.02.2015 09:37:01] \lc\2\sesskey\00835\proof\0\id\1\final\
+[14.02.2015 09:37:01] client: \newgame\\connid\835\sesskey\3584481\final\
+[14.02.2015 09:37:01] client (10.0.0.35:50837) #newgame
+[14.02.2015 09:37:31] ======= 1 of 1000 sockets active =======
+[14.02.2015 09:38:01] ======= 1 of 1000 sockets active =======
+[14.02.2015 09:38:31] ======= 1 of 1000 sockets active =======
+[14.02.2015 09:39:01] ======= 1 of 1000 sockets active =======
+[14.02.2015 09:39:05] class timeout for 10.0.0.35:50837
+[14.02.2015 09:39:05] socket closed #tcp_socket
+[14.02.2015 09:39:31] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:40:01] ======= 0 of 1000 sockets active =======
+[14.02.2015 09:40:31] ======= 0 of 1000 sockets active =======
